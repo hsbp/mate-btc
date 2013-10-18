@@ -1,0 +1,5 @@
+SConstruct
+build
+*.hex
+*.elf
+prelay
